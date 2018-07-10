@@ -1,8 +1,7 @@
 # Lynis
 Lynis tooling and automation
 
-Lynis Mac Portable
-
+# Lynis Mac Portable
 Automated Lynis Install and local report generation for Macs running version 10.10 or higher.
 
 1. Checks to see if xcode tools are installed, if not, installs them
